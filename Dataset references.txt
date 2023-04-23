@@ -1,0 +1,5 @@
+Cars dataset: 
+https://www.kaggle.com/datasets/kshitij192/cars-image-dataset
+
+fruits dataset:
+https://www.kaggle.com/datasets/mbkinaci/fruit-images-for-object-detection
